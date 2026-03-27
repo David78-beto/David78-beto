@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center">Hola, soy David Mahecha/About me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 <div style="text-align: center;">
-  <img src="https://i.postimg.cc/RZvsyqSp/Creative-Modern-Business-Card.png" alt="Creative Modern Business Card" style="max-width: 100%; height: auto;" />
+  <img src="https://i.postimg.cc/J4JyJDFZ/Imagen-presentacion.png" alt="Creative Modern Business Card" style="max-width: 100%; height: auto;" />
 </div>
 
 <a href="mailto:davidhumberto031@gmail.com" target="_blank"><img alt='gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=gmail&logoColor=EF233C&labelColor=FFFFFF&color=EF233C'/></a>
